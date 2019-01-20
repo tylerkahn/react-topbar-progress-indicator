@@ -3798,9 +3798,9 @@ to-fast-properties@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.3.tgz#b83571fa4d8c25b82e231b06e3a3055de4ca1a47"
 
-topbar@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/topbar/-/topbar-0.1.3.tgz#c9ef8776dc4469f7840e6416f4136ddeccf4b7c6"
+topbar@tylerkahn/topbar:
+  version "0.1.4"
+  resolved "https://codeload.github.com/tylerkahn/topbar/tar.gz/03f2f0332a92ea9faa11fc26348a8086b3b5f5dd"
 
 tough-cookie@~2.3.0:
   version "2.3.3"
